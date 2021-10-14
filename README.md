@@ -1,5 +1,7 @@
 # SegNet
 
+ke：包含详细的keras实现反池化层操作及讲解
+
 SegNet is a model of semantic segmentation based on Fully Comvolutional Network.
 
 This repository contains the implementation of learning and testing in keras and tensorflow.
